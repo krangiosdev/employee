@@ -14,6 +14,9 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
+/**
+ * Service implementation for employees
+ */
 @Slf4j
 @Service
 public class EmployeeServiceImpl implements EmployeeService {

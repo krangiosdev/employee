@@ -12,6 +12,9 @@ import org.springframework.web.servlet.i18n.SessionLocaleResolver;
 
 import java.util.Locale;
 
+/**
+ * Configuration file to read from message bundle
+ */
 @Configuration
 public class LocaleConfig implements WebMvcConfigurer {
 

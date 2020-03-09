@@ -12,6 +12,9 @@ import javax.validation.constraints.NotNull;
 import java.time.LocalDate;
 
 
+/**
+ * Employee Entity object
+ */
 @Getter
 @Setter
 @Table(name = "employee")
