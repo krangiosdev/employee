@@ -1,4 +1,4 @@
-#Project Employee Registry
+# Project Employee Registry
 
 This is a springboot project that uses H2 Database for in memory retrieval and storage of employees.
 
