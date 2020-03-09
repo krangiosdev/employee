@@ -13,7 +13,7 @@ The project uses gradle for build.
 4) Custom Exception Handling
 5) Validation of Requests
 6) Unit Testing using Mockito
-7) The project has added support for Internalization i18
+7) The project has added support for Internationalization i18
 8) The project uses JPA repository and service layer
 
 #### The following endpoints are available after the start up:
